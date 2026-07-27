@@ -8,7 +8,7 @@ pre : " <b> 5.3.1 </b> "
 
 ---
 
-![Kiến trúc VPC](/images/5-Workshop/5.3-vpc/VPC_ARCHI.png)
+![Kiến trúc VPC](/images/5-Workshop/5.3-vpc/vpc_archi3.png)
 
 #### Truy cập **VPC Console** và chọn **Create VPC**
 
