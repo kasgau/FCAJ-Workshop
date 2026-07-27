@@ -16,8 +16,8 @@ Trong phần này ta sẽ thiết lập VPC và các tài nguyên/ tính năng c
 ![Kiến trúc VPC](/images/5-Workshop/5.3-vpc/VPC_ARCHI.png)
 
 ## Sơ đồ kiến trúc Security Group
-![Security Group diagram](/images/5-Workshop/5.3-vpc/5.3.2-creat-sg/sg.png)
+![Security Group diagram](/images/5-Workshop/5.3-vpc/5.3.2-creat-sg/sg1.png)
 #### Nội dung
 
-- [Tạo gateway endpoint](5.3.1-create-vpc-and-more/)
-- [Test gateway endpoint](5.3.2-creat-sg/)
+- [Tạo VPC và các tài nguyên/ tính năng nằm trong dịch vụ](5.3.1-create-vpc-and-more/)
+- [Tạo Security Group](5.3.2-create-sg/)

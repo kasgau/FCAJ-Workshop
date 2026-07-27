@@ -8,11 +8,10 @@ pre : " <b> 5.3.1 </b> "
 
 ---
 
-## 1. Tạo VPC
+![Kiến trúc VPC](/images/5-Workshop/5.3-vpc/VPC_ARCHI.png)
 
-1. Truy cập **VPC Console**
+#### Truy cập **VPC Console** và chọn **Create VPC**
 
-2. Chọn **Create VPC**
 
  Cấu hình VPC:
 
@@ -25,20 +24,18 @@ pre : " <b> 5.3.1 </b> "
 | **Tenancy**                   | Default            |
 | **Number of Availability Zones (AZs)**                        |       2            |
 | **Number of public subnets**                                  |       2            |
-| **Number of private subnets**                                 |       4            |
-| **Public subnet CIDR block in us-east-1a**                    | 10.0.0.0/22            |
-| **Public subnet CIDR block in us-east-1b**                    | 10.0.4.0/22            |
-| **Private subnet CIDR block in us-east-1a**                   | 10.0.8.0/22            |
-| **Private subnet CIDR block in us-east-1b**                   | 10.0.12.0/22            |
-| **Private subnet CIDR block in us-east-1a**                   | 10.0.16.0/22            |
-| **Private subnet CIDR block in us-east-1b**                   | 10.0.20.0/22            |
+| **Number of private subnets**                                 |       2            |
+| **Public subnet CIDR block in us-east-1a**                    | `10.0.0.0/22`            |
+| **Public subnet CIDR block in us-east-1b**                    | `10.0.4.0/22`            |
+| **Private subnet CIDR block in us-east-1a**                   | `10.0.8.0/22`            |
+| **Private subnet CIDR block in us-east-1b**                   | `10.0.12.0/22`            |
 | **NAT gateways ($) - updated**                   | Regional - new            |
 | **VPC endpoints**                   | S3 Gateway            |
 
-![vpc diagram](/images/5-Workshop/5.3-vpc/5.3.1-create-vpc-and-more/vpc1.png)
+![vpc diagram](/images/5-Workshop/5.3-vpc/5.3.1-create-vpc-and-more/vpc4.png)
 
-![vpc diagram](/images/5-Workshop/5.3-vpc/5.3.1-create-vpc-and-more/vpc2.png)
+![vpc diagram](/images/5-Workshop/5.3-vpc/5.3.1-create-vpc-and-more/vpc5.png)
 
-![vpc diagram](/images/5-Workshop/5.3-vpc/5.3.1-create-vpc-and-more/vpc3.png)
+![vpc diagram](/images/5-Workshop/5.3-vpc/5.3.1-create-vpc-and-more/vpc6.png)
 
 3. Chọn **Create VPC**
