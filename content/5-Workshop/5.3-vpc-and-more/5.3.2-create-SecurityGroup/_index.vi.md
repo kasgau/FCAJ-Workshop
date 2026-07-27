@@ -10,7 +10,7 @@ Security Group hoạt động như tường lửa ảo ở cấp độ instance 
 
 ---
 
-![Security Group diagram](/images/5-Workshop/5.3-vpc/5.3.2-creat-sg/sg3.png)
+![Security Group diagram](/images/5-Workshop/5.3-vpc/5.3.2-creat-sg/ssg4.png)
 
 #### Security Group cho ALB
 

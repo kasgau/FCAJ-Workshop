@@ -16,7 +16,7 @@ Trong phần này ta sẽ thiết lập VPC và các tài nguyên/ tính năng c
 
 ## Sơ đồ kiến trúc Security Group
 
-![Security Group diagram](/images/5-Workshop/5.3-vpc/5.3.2-creat-sg/sg1.png)
+![Security Group diagram](/images/5-Workshop/5.3-vpc/5.3.2-creat-sg/ssg4.png)
 
 #### Nội dung
 
