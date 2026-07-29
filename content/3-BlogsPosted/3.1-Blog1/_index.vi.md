@@ -16,7 +16,8 @@ Nếu hệ thống của bạn có nhiều Private Subnets ở các Availability
 -	Giải quyết được bài toán HA và Cross-AZ Data Transfer...
 -	Nhưng tốn tiền duy trì cố định (Hourly rate) cho tối thiểu 2-3 con NAT cùng lúc, dù traffic ở một số AZ có thể cực kỳ ít.
 
- Bước ngoặt từ AWS: Regional NAT Gateway (RNAT). Để giải quyết sự khó chịu này, AWS đã ra mắt Regional NAT Gateway (RNAT) hoạt động ở cấp độ VPC với các lợi ích:
+ ## Bước ngoặt từ AWS: Regional NAT Gateway (RNAT). 
+ Để giải quyết sự khó chịu này, AWS đã ra mắt Regional NAT Gateway (RNAT) hoạt động ở cấp độ VPC với các lợi ích:
 
 1. Với Rnat bạn đã có thể: 
 - Tạo chỉ 1 con NAT và vẫn duy trì HA tự động: Không còn nỗi lo Single Point of Failure (SPOF) vì AWS tự quản lý tính sẵn sàng đa AZ ở phía sau.
