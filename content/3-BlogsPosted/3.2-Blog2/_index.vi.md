@@ -26,6 +26,11 @@ Các Tính Năng Cốt Lõi
 
 
 ![image](/images/3-BlogsPosted/3.2-Blog2/1.png)
+
+Đang chờ duyệt bài viết trên group: 
+
+![image](/images/3-BlogsPosted/3.2-Blog2/2.png)
+
 ---
 
 ### Nguồn tham khảo

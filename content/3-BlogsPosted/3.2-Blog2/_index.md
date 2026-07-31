@@ -26,6 +26,11 @@ Core Features
 
 
 ![image](/images/3-BlogsPosted/3.2-Blog2/1.png)
+
+Waiting for approved on group: 
+
+![image](/images/3-BlogsPosted/3.2-Blog2/2.png)
+
 ---
 
 ### Reference
