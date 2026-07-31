@@ -20,7 +20,7 @@ chapter: false
 
 &emsp; **Major:** Computer Engineering
 
-&emsp; **Class:** AWS082025
+&emsp; **Class:** AWS062026
 
 &emsp; **Internship Company:** Amazon Web Services Viet Nam Company Limited
 

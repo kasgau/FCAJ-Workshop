@@ -9,7 +9,7 @@ pre: " <b> 4. </b> "
 Trong quá trình thực tập, em đã tham gia 4 events, với mỗi event là một trải nghiệm đáng nhớ với những kiến thức mới, hay và bổ ích, cùng với đó là nhứng khoảnh khắc rất tuyệt vời.
 
 ### [Event 1](4.1-Event1/)
-&emsp;**Tên sự kiện:** 
+&emsp;**Tên sự kiện:** Swinburne Cloud Mastery
 
 &emsp;**Thời gian:** 09:00 ngày 04/07/2026
 
@@ -20,7 +20,7 @@ Trong quá trình thực tập, em đã tham gia 4 events, với mỗi event là
 ---
 
 ### [Event 2](4.2-Event2/)
-&emsp;**Tên sự kiện:** 
+&emsp;**Tên sự kiện:** Cloud Architet Grand Final - Event meetup
 
 &emsp;**Thời gian:** 09:00 ngày 11/07/2026
 
@@ -32,7 +32,7 @@ Trong quá trình thực tập, em đã tham gia 4 events, với mỗi event là
 ---
 
 ### [Event 3](4.3-Event3/)
-&emsp;**Tên sự kiện:** AWS Hackathon Product Showcase & Workshop
+&emsp;**Tên sự kiện:** FCAJ - Agentic AI Build Week
 
 &emsp;**Thời gian:** 09:00 ngày 25/07/2026
 

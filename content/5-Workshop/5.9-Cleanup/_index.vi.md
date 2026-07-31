@@ -8,11 +8,21 @@ pre: " <b> 5.9. </b> "
 
 #### Dọn dẹp tài nguyên
 
-Trong phần này, chúng ta sẽ tiến hành dọn dẹp các tài nguyên AWS đã khởi tạo trong quá trình thực hành (**CloudFront Distribution** và **Amazon S3 Bucket**) để tránh phát sinh chi phí không cần thiết trên tài khoản AWS.
+Trong phần này, chúng ta sẽ tiến hành dọn dẹp các tài nguyên AWS đã khởi tạo trong quá trình thực hành để tránh phát sinh chi phí không cần thiết trên tài khoản AWS.
 
 ---
 
 #### Các bước dọn dẹp
+
+### Dọn VPC và các tài nguyên đi kèm
+1. Tại **VPC Console**, truy cập **NAT gateways** chọn và xóa Regional NAT Gateway mà bạn tạo cùng với VPC.
+2. Quay lại mục **VPC**, chọn VPC của project -> **Action** -> **Delete VPC**, lúc này Khi confirm xóa thì AWS sẽ xóa hết subnet, IGW, route table được tạo cùng lúc với VPC.
+
+### Dọn EC2 và các tài nguyên đi kèm
+1. Tại **EC2 Console**, truy cập **Load Balancer** chọn và delete ALB của project.
+2. Chuyển sang mục **Target Groups** chọn và delete target group của project.
+3. Chuyển sang mục **AMIs** chọn và deregister AMI của project, lúc này hãy tick chọn **Delete associated snapshots** để xóa cả snapshot.
+4. Chuyển sang mục **Instance** chọn và terminate 2 EC2 của project.
 
 ### Vô hiệu hóa (Disable) và Xóa CloudFront Distribution
 

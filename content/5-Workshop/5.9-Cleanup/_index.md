@@ -8,13 +8,23 @@ pre : " <b> 5.9. </b> "
 
 #### Clean up resources
 
-In this section, we will clean up all AWS resources created during the lab (**CloudFront Distribution** and **Amazon S3 Bucket**) to avoid incurring unnecessary charges on your AWS account.
+In this section, we will clean up all AWS resources created during the lab  to avoid incurring unnecessary charges on your AWS account.
 
 ---
 
 #### Cleanup Steps
 
 ### Disable and Delete CloudFront Distribution
+
+### Cleaning Up the VPC and Associated Resources
+1. Navigate to the **VPC Console**, select **NAT Gateways** from the left navigation pane, choose the regional NAT Gateway created alongside your VPC, and click Delete NAT Gateway. Wait for the status to change to Deleted.
+2. Return to the Your **VPCs** section, select the project's VPC, click Actions, and choose Delete VPC.In the confirmation dialog, confirm the deletion. AWS will automatically clean up associated subnets, Internet Gateways (IGW), and custom route tables generated during the VPC provisioning.
+
+### Dọn EC2 và các tài nguyên đi kèm
+1. Navigate to the **EC2 Console**, go to Load Balancers, select the project's Application Load Balancer (ALB), and click Delete.
+2. Navigate to **Target Groups**, select the target group associated with the project, and click Delete.
+3. Navigate to **AMIs**, select the project's custom AMI, and click Deregister. Ensure the checkbox **Delete associated snapshots** is ticked to automatically delete the underlying EBS snapshot.
+4. Navigate to **Instances**, select the two EC2 instances provisioned for the project, click Instance state, and select Terminate instance.
 
 1. Open the **AWS Management Console** and navigate to **CloudFront**.
 2. From the **Distributions** list, select the distribution created for the MonaPerfume project.

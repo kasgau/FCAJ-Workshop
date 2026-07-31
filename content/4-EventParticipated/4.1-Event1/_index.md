@@ -6,121 +6,79 @@ chapter: false
 pre: " <b> 4.1. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy it verbatim** into your report, including this warning.
-{{% /notice %}}
 
-# Summary Report: “GenAI-powered App-DB Modernization workshop”
+# Summary Report: “Swinburne Cloud Mastery”
 
 ### Event Objectives
 
-- Share best practices in modern application design
-- Introduce Domain-Driven Design (DDD) and event-driven architecture
-- Provide guidance on selecting the right compute services
-- Present AI tools to support the development lifecycle
+- Share AWS's corporate vision and cloud technology ecosystem roadmap.
+- Provide key industry insights to Swinburne University students as well as interns participating in the First Cloud AI Journey (FCAJ) program.
 
 ### Speakers
 
-- **Jignesh Shah** – Director, Open Source Databases
-- **Erica Liu** – Sr. GTM Specialist, AppMod
-- **Fabrianne Effendi** – Assc. Specialist SA, Serverless Amazon Web Services
+- **Nguyen Gia Hung** - Head of Solution Architect, Amazon Web Services
+- **Banh Cam Vinh** - Data Engineer, Renova Cloud
+- **Như Trần** - Account Manager, Amazon Web Services
+- **Khang** - Alumni, Swinburne University
 
 ### Key Highlights
 
-#### Identifying the drawbacks of legacy application architecture
+#### Current State of the IT Labor Market in Vietnam
+- Shift Toward AI: Accelerating adoption of Generative AI across enterprise workflows.
+- Devaluation of Certifications Alone: Diplomas and entry-level cloud certifications are no longer sole guarantees of employment without hands-on project experience.
 
-- Long product release cycles → Lost revenue/missed opportunities  
-- Inefficient operations → Reduced productivity, higher costs  
-- Non-compliance with security regulations → Security breaches, loss of reputation  
+- Tight Entry-Level Hiring: Recruitment demand for roles requiring under 1 year of experience is at an all-time low.
 
-#### Transitioning to modern application architecture – Microservices
+- AWS Expansion: Historical overview and strategic trajectory of AWS infrastructure and ecosystem growth in Vietnam.
 
-Migrating to a modular system — each function is an **independent service** communicating via **events**, built on three core pillars:
+#### Academic Environment vs. Enterprise Reality
+- In Academia: Datasets are pre-cleaned, requirements are rigid and explicitly stated, and project timelines are flexible.
+- In Enterprise: Real-world data is inherently unstructured and "noisy," requirements evolve continuously based on business priorities, and deadlines are firm.
 
-- **Queue Management**: Handle asynchronous tasks  
-- **Caching Strategy**: Optimize performance  
-- **Message Handling**: Flexible inter-service communication  
+#### Effective AI Utilization
+- Understanding the Black Box: A growing number of students leverage AI tools for project deliverables without understanding underlying mechanics or algorithms.
 
-#### Domain-Driven Design (DDD)
+- Prompt Engineering & Control: Techniques for steering AI models effectively to yield precise, deterministic outcomes.
 
-- **Four-step method**: Identify domain events → arrange timeline → identify actors → define bounded contexts  
-- **Bookstore case study**: Demonstrates real-world DDD application  
-- **Context mapping**: 7 patterns for integrating bounded contexts  
 
-#### Event-Driven Architecture
-
-- **3 integration patterns**: Publish/Subscribe, Point-to-point, Streaming  
-- **Benefits**: Loose coupling, scalability, resilience  
-- **Sync vs async comparison**: Understanding the trade-offs  
-
-#### Compute Evolution
-
-- **Shared Responsibility Model**: EC2 → ECS → Fargate → Lambda  
-- **Serverless benefits**: No server management, auto-scaling, pay-for-value  
-- **Functions vs Containers**: Criteria for appropriate choice  
-
-#### Amazon Q Developer
-
-- **SDLC automation**: From planning to maintenance  
-- **Code transformation**: Java upgrade, .NET modernization  
-- **AWS Transform agents**: VMware, Mainframe, .NET migration  
 
 ### Key Takeaways
 
-#### Design Mindset
+#### Market Shifts and Adaptability
+Entry-level qualification thresholds for interns have risen sharply.
 
-- **Business-first approach**: Always start from the business domain, not the technology  
-- **Ubiquitous language**: Importance of a shared vocabulary between business and tech teams  
-- **Bounded contexts**: Identifying and managing complexity in large systems  
+The entry-level employment pyramid has inverted, favoring candidates with specialized, practical skill sets over generalists.
 
-#### Technical Architecture
+AI tools must be actively adopted, but leveraged strategically so they augment rather than replace human technical competency.
 
-- **Event storming technique**: Practical method for modeling business processes  
-- Use **event-driven communication** instead of synchronous calls  
-- **Integration patterns**: When to use sync, async, pub/sub, streaming  
-- **Compute spectrum**: Criteria for choosing between VM, containers, and serverless  
+#### Controlling AI Tools
+- A strong foundational knowledge allows engineers to use AI to drastically accelerate development while maintaining total code quality control.
 
-#### Modernization Strategy
+- Mastering precise prompt formulation ensures AI assistants execute strictly according to technical intent. 
 
-- **Phased approach**: No rushing — follow a clear roadmap  
-- **7Rs framework**: Multiple modernization paths depending on the application  
-- **ROI measurement**: Cost reduction + business agility  
+#### Communication and Networking as Key Drivers
+- Active, transparent communication with team members is critical to project execution.
 
-### Applying to Work
+- Career opportunities frequently emerge unexpectedly through professional relationships and tech community interactions.
 
-- **Apply DDD** to current projects: Event storming sessions with business teams  
-- **Refactor microservices**: Use bounded contexts to define service boundaries  
-- **Implement event-driven patterns**: Replace some sync calls with async messaging  
-- **Adopt serverless**: Pilot AWS Lambda for suitable use cases  
-- **Try Amazon Q Developer**: Integrate into the dev workflow to boost productivity  
+### Maximizing Academic Tenure
+- Capitalize on university time to build strong computer science fundamentals, avoiding future regret when encountering complex enterprise architectures.
 
 ### Event Experience
 
-Attending the **“GenAI-powered App-DB Modernization”** workshop was extremely valuable, giving me a comprehensive view of modernizing applications and databases using advanced methods and tools. Key experiences included:
+Attending the Swinburne Cloud Mastery event was an incredibly valuable experience, providing a clear perspective on the evolving tech job market:
 
 #### Learning from highly skilled speakers
 - Experts from AWS and major tech organizations shared **best practices** in modern application design.  
 - Through real-world case studies, I gained a deeper understanding of applying **DDD** and **Event-Driven Architecture** to large projects.  
 
-#### Hands-on technical exposure
-- Participating in **event storming** sessions helped me visualize how to **model business processes** into domain events.  
-- Learned how to **split microservices** and define **bounded contexts** to manage large-system complexity.  
-- Understood trade-offs between **synchronous and asynchronous communication** and integration patterns like **pub/sub, point-to-point, streaming**.  
+#### Learning from Industry Experts
+- Speakers from AWS and partner organizations shared industry best practices for designing and deploying modern cloud architectures.
 
-#### Leveraging modern tools
-- Explored **Amazon Q Developer**, an AI tool for SDLC support from planning to maintenance.  
-- Learned to **automate code transformation** and pilot serverless with **AWS Lambda** to improve productivity.  
-
-#### Networking and discussions
-- The workshop offered opportunities to exchange ideas with experts, peers, and business teams, enhancing the **ubiquitous language** between business and tech.  
-- Real-world examples reinforced the importance of the **business-first approach** rather than focusing solely on technology.  
-
-#### Lessons learned
-- Applying DDD and event-driven patterns reduces **coupling** while improving **scalability** and **resilience**.  
-- Modernization requires a **phased approach** with **ROI measurement**; rushing the process can be risky.  
-- AI tools like Amazon Q Developer can significantly **boost productivity** when integrated into the current workflow.  
+- Hearing real-world domain experiences across different company cultures provided a realistic, macro-level view of the technology landscape.
 
 #### Some event photos
-*Add your event photos here*  
+<div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
+  <img src="/images/4-Events/4.1-Event1/ev.jpg" alt="Event 3" style="width: 30%; height: auto;" />
+</div>
 
-> Overall, the event not only provided technical knowledge but also helped me reshape my thinking about application design, system modernization, and cross-team collaboration.

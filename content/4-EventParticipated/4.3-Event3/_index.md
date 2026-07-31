@@ -1,5 +1,5 @@
 ---
-"title": "Event 4"
+"title": "Event 3"
 "date": "2026-07-25"
 "weight": 4
 "chapter": false

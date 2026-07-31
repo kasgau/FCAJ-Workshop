@@ -6,7 +6,7 @@
 "pre": " <b> 4.3. </b> "
 ---
 
-# Bài thu hoạch “AWS Hackathon Product Showcase & Workshop”
+# Bài thu hoạch “FCAJ - Agentic AI Build Week”
 
 ### Mục Đích Của Sự Kiện
 
@@ -59,4 +59,3 @@ Tham gia buổi lắng nghe workshop trình bày sản phẩm hackathon là mộ
   <img src="/images/4-Events/4.3-Event3/ev.jpg" alt="Event 3" style="width: 30%; height: auto;" />
 </div>
 
-> Tổng thể, sự kiện đã cung cấp cho em vô số kinh nghiệm quý báu về quy trình phát triển sản phẩm, cách ứng dụng AI/Cloud hiệu quả và truyền cảm hứng mạnh mẽ để tự tin tham gia các thử thách công nghệ trong tương lai.
