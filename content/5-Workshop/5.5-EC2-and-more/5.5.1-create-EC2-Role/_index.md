@@ -1,5 +1,5 @@
 ---
-title : "Creat IAM role and EC2 "
+title : "Create IAM role and EC2 "
 date : 2026-07-26 
 weight : 1 
 chapter : false

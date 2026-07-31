@@ -18,7 +18,7 @@ In this section, we will set up the VPC alongside its associated resources and f
 
 ![Security Group diagram](/images/5-Workshop/5.3-vpc/5.3.2-creat-sg/ssg4.png)
 
-#### Nội dung
+#### Content
 
-- [Tạo VPC và các tài nguyên/ tính năng nằm trong dịch vụ](5.3.1-create-vpc-and-more/)
-- [Tạo Security Group](5.3.2-create-sg/)
+- [Creating a VPC and its Associated Resources/Features](5.3.1-create-vpc-and-more/)
+- [Create Security Group](5.3.2-create-sg/)
