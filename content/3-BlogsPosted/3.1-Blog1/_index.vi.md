@@ -41,6 +41,9 @@ Nếu hệ thống của bạn có nhiều Private Subnets ở các Availability
 
 ![RNAT](/images/3-BlogsPosted/3.1-Blog1/1.png)
 
+Đang chờ duyệt bài viết trên group: 
+
+![image](/images/3-BlogsPosted/3.1-Blog1/2.png)
 ---
 
 ### Nguồn tham khảo
