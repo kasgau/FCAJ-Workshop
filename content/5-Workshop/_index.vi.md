@@ -25,3 +25,4 @@ pre: " <b> 5. </b> "
 7. [Bảo mật](5.7-Security/)
 8. [Demo](5.8-Demo/)
 9. [Dọn dẹp tài nguyên](5.9-Cleanup/)
+10. [Limitations](5.10-Limitation/)
