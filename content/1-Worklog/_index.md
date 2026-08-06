@@ -24,6 +24,6 @@ The scope of work across the 9 weeks is summarized as follows:
 
 **Tuần 7:** [Validating architectural design and deploying the project](1.7-week7/)
 
-**Tuần 8:** [Exploring Infrastructure as Code via CloudFormation and secrets management with AWS Secrets Manager](1.8-week8/)
+**Tuần 8:** [Exploring Amazon ElasticCache and some security services](1.8-week8/)
 
 **Tuần 9:** [Exploring security services with AWS WAF, Key Management Service (KMS), and finalizing the report](1.9-week9/)
