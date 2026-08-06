@@ -19,7 +19,8 @@ pre: " <b> 1.5. </b> "
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
 | 2   | - Learn about CDN, Amazon CloudFront, Edge Locations, and Caching| 29/06/2026   | 29/06/2026      |
 | 3   | - Practice creating a CloudFront Distribution | 30/06/2026 | 30/06/2026 | |
-| 4, 5, 6  | - Search, gather, and research architectural patterns relevant to the project for reference | 01/07/2026 | 05/07/2026 |  |
+| 4,5 | - Learn YAML/JSON template syntax for AWS CloudFormation.<br>- Write baseline code templates to provision core networking resources (VPC, Subnets, and Internet Gateway). | 01/07/2026 | 02/07/2026 | AWS CloudFormation User Guide |
+| 6| Research, collect, and analyze reference architectures for the project design phase. | 03/07/2026 | 03/07/2026 | AWS Architecture Center |
 
 
 ### Week 5 Achievements:
