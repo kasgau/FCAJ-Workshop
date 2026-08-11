@@ -26,6 +26,6 @@ Nội dung công việc của 8 tuần được tóm tắt như sau:
 
 **Tuần 8:** [Tìm hiểu về Amazon ElasticCache và các dịch vụ bảo mật](1.8-week8/)
 
-**Tuần 9:** [Tìm hiểu nốt các dịch vụ bảo mật WAF, Key Management Service (KMS) và hoàn thiện báo cáo](1.9-week9/)
+**Tuần 9:** [Tìm hiểu dịch vụ bảo mật  Key Management Service (KMS) và hoàn thiện báo cáo](1.9-week9/)
 
 
