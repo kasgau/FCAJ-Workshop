@@ -15,7 +15,7 @@ pre: " <b> 1.6. </b> "
 ### Tasks to be carried out this week:
 | Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2,3   | - Proceed to design and draw the architecture for the project | 06/07/2026   | 06/07/2026      |
+| 2,3   | - Proceed to design and draw the architecture for the project | 06/07/2026   | 07/07/2026      |
 | 4   | - Learn about Systems Manager (SSM) Session Manager to access EC2 instances in private subnets| 08/07/2026 | 08/07/2026 | |
 | 5   | - Research Regional NAT Gateway | 09/07/2026 | 10/07/2026      | [Introducing Amazon VPC Regional NAT Gateway](https://aws.amazon.com/vi/blogs/networking-and-content-delivery/introducing-amazon-vpc-regional-nat-gateway/) |
 | 6   | - Revise the architecture and draw the Security Group diagram | 10/07/2026 | 10/07/2026      |  |
