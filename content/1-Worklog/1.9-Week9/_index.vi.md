@@ -15,7 +15,7 @@ pre: " <b> 1.9. </b> "
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | ----------| ------------ | --------------- | -------------- |
 | 2, 3   | - Tìm hiểu Amazon CloudWatch và Key Management Service (KMS) | 27/07/2026   | 28/07/2026      | |
-| 4, 5, 6 | - Hoàn thiện worklog, báo cáo thực tập và tổng hợp các tài liệu cần thiết | 29/07/2026 | 31/07/2026 |
+| 4, 5, 6 | - Hoàn thiện workshop, báo cáo thực tập và tổng hợp các tài liệu cần thiết | 29/07/2026 | 31/07/2026 |
 
 ### Kết quả đạt được tuần 9:
 

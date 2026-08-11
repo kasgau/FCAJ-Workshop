@@ -17,7 +17,7 @@ pre: " <b> 1.9. </b> "
 | Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
 | 2, 3   | - Learn about Amazon CloudWatch and AWS Key Management Service (KMS) | 27/07/2026   | 28/07/2026      | |
-| 4, 5, 6 | -Complete worklogs, finalize the internship report, and consolidate essential documentation | 29/07/2026 | 31/07/2026 |
+| 4, 5, 6 | -Complete workshop, finalize the internship report, and consolidate essential documentation | 29/07/2026 | 31/07/2026 |
 
 
 ### Week 9 Achievements:
