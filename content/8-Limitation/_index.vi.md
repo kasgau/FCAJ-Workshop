@@ -1,9 +1,9 @@
 ---
 title: "Những hạn chế và hướng phát triển trong tương lai"
 date: 2026-07-30
-weight: 10
+weight: 8
 chapter: false
-pre: " <b> 5.10. </b> "
+pre: " <b> 8. </b> "
 ---
 
 ----

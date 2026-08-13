@@ -1,12 +1,12 @@
 ---
-title : "References"
-date : 2026-07-30
-weight: 8
+title: "Tài liệu tham khảo"
+date: 2026-07-30
+weight: 9
 chapter: false
-pre: " <b> 8. </b> "
+pre: " <b> 9. </b> "
 ---
 
-### References
+### Nguồn tham khảo 
 
 1. [A Safer Way to Distribute AWS Credentials to EC2](https://aws.amazon.com/vi/blogs/security/a-safer-way-to-distribute-aws-credentials-to-ec2/)
 2. [Automated Configuration of CloudFront Distribution with S3 and ALB for Static & Dynamic Content Delivery](https://uzairmansoor123123.medium.com/automated-configuration-of-cloudfront-distribution-with-s3-and-ec2-for-static-dynamic-content-f2197684a297)
